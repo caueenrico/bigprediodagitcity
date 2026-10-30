@@ -26,3 +26,4 @@ Cada commit = um andar novo.
 - Andar 20 construído em 22:28:41 🧱
 - Andar 21 construído em 22:28:43 🧱
 - Andar 22 construído em 22:28:44 🧱
+- Andar 23 construído em 22:28:45 🧱
