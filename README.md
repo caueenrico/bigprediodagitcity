@@ -301,3 +301,4 @@ Cada commit = um andar novo.
 - Andar 295 construído em 08:28:43 🧱
 - Andar 296 construído em 08:28:43 🧱
 - Andar 297 construído em 08:28:44 🧱
+- Andar 298 construído em 08:28:44 🧱
