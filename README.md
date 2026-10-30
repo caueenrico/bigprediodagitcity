@@ -31,3 +31,4 @@ Cada commit = um andar novo.
 - Andar 25 construído em 22:28:47 🧱
 - Andar 26 construído em 22:28:48 🧱
 - Andar 27 construído em 22:28:49 🧱
+- Andar 28 construído em 22:28:49 🧱
